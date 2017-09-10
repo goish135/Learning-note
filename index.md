@@ -14,17 +14,22 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+# 環境設定
+`printf("Hello World!")`
 - Bulleted
 - List
 
 1. Numbered
 2. List
+**粗體字** 
+_斜體字_
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
+[https://www.youtube.com/watch?v=bU0f1IvUcZA]
+![https://drive.google.com/open?id=0B3MdS-GsqFRpeW9MTkVYMm1kaDg]
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
