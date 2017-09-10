@@ -1,38 +1,25 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/goish135/Learning-note/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-# 環境設定
-`printf("Hello World!")`
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-1. One
-2. Two
-3. Three
-
+## Slack 機器人 環境設定
+### 架構示意圖
+![frame](https://i.imgur.com/kBdY2A8.png)
+### 各個角色說明
+- **adapter**:可以使hubot運行在不同的通訊平台<br>
+- **hubot**  :機器人(生活小助手) ，負責接受訊息(指令)，和回應(問候，需求)<br>
+- **通訊軟體**:fb line skype slack(我採用的)<br>
+- **script** :coffeescript javascript ，可寫各種不同的功能(之後要好好學習的，目前是參考自網路現有資源)<br>
+### IS "載東載西" TIME
+0. node.js and npm // 先載完這個 再用npm載hubot // > [install node.js](https://docs.npmjs.com/getting-started/installing-node)
+1. hubot > [hubot document](https://hubot.github.com/docs/)
+2. slack 帳號 (比較沒那麼普及的通訊app) but 經google後發現他主要是為了團隊溝通 在國外很火紅 <br>
+2.1  // 為了測試tatami是否正常運行 // > [slack相關](http://www.playpcesor.com/2015/06/slack.html)<br>
+3. slack app <br>
+3.1 build 一個出來<br>![tatami](https://i.imgur.com/L7tiQER.png)<br>
 **粗體字** 
 _斜體字_
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 [靜態網站製作教學](https://www.youtube.com/watch?v=bU0f1IvUcZA)<br>
 ![搞笑](http://friendoprod.blob.core.windows.net/missionpics/images/2293/member/ae5fdd9e-7eb7-48ca-8dc6-5e0317847988.jpg)<br>
 
