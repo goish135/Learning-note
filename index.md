@@ -38,5 +38,5 @@
 ![mt](https://i.imgur.com/uxMhcza.png)
 
 ### 特別感謝 _Reference_  
->[大師](https://github.com/twtrubiks/mybot/tree/master/scripts)
+>[scripts 程式碼 參考出處](https://github.com/twtrubiks/mybot/tree/master/scripts)
 
