@@ -7,30 +7,36 @@
 - **通訊軟體**:fb line skype slack(我採用的)<br>
 - **script** :coffeescript javascript ，可寫各種不同的功能(之後要好好學習的，目前是參考自網路現有資源)<br>
 ### IS "載東載西" TIME
-0. node.js and npm // 先載完這個 再用npm載hubot // > [install node.js](https://docs.npmjs.com/getting-started/installing-node)
+0. node.js and npm _先載完這個再用npm載hubot_ > [install node.js](https://docs.npmjs.com/getting-started/installing-node)
 1. hubot > [hubot document](https://hubot.github.com/docs/)
 2. slack 帳號 (比較沒那麼普及的通訊app) but 經google後發現他主要是為了團隊溝通 在國外很火紅 <br>
-2.1  // 為了測試tatami是否正常運行 // > [slack相關](http://www.playpcesor.com/2015/06/slack.html)<br>
+2.1  _為了測試tatami是否正常運行_ > [slack相關](http://www.playpcesor.com/2015/06/slack.html)<br>
 3. slack app <br>
 3.1 build 一個出來<br>![tatami](https://i.imgur.com/L7tiQER.png)<br>
-**粗體字** 
-_斜體字_
 
-**Bold** and _Italic_ and `Code` text
+### imp. > cmd (命令提示字元部分)
+- set HUBOT_SLACK_TOKEN= _api token_ 
+- bin\hubot -a slack //啟用hubot的指令<br>
+![成功部屬訊息](https://i.imgur.com/HjkAyNM.jpg)
+### 其他 set
+- **youtube相關** > set HUBOT_YOUTUBE_API_KEY= _api key_ >> [youtube相關服務for開發員](https://developers.google.com/youtube/v3/getting-started)
+- **天氣相關**    > set HUBOT_FORECAST_API_KEY= _api key_ >> [天氣服務申請處](https://darksky.net/dev/register)
+### SHOW TIME 
+1. *say hi* <br>
+![say hi](https://i.imgur.com/ZJlEQ6C.png)
+2. *what's the weather today?* <br>
+![weather](https://i.imgur.com/j62zAdb.png)
+3. *caculator* <br>
+![calculator](https://i.imgur.com/qUHrvsj.png)
+4. *ptt hot news*<br>
+![ptt](https://i.imgur.com/URmNaKH.png)
+5. *apple 即時新聞標題*<br>
+![apple](https://i.imgur.com/SrQOAev.png)
+6. *依關鍵字傳youtube影片*<br>
+![youtube](https://i.imgur.com/kQ1vd14.png)
+7. *movie 近期電影* //but 可能因為 開眼電影網站 有改版 // 目前沒有回應 // <br>
+![mt](https://i.imgur.com/uxMhcza.png)
 
-[Link](url) and ![Image](src)
+### 特別感謝 _Reference_  
+>[大師](https://github.com/twtrubiks/mybot/tree/master/scripts)
 
-[靜態網站製作教學](https://www.youtube.com/watch?v=bU0f1IvUcZA)<br>
-![搞笑](http://friendoprod.blob.core.windows.net/missionpics/images/2293/member/ae5fdd9e-7eb7-48ca-8dc6-5e0317847988.jpg)<br>
-
-![Imgur](https://i.imgur.com/uEWAK9s.jpg)<br>
-<del>我要得圖靈獎!!</del><br>
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goish135/Learning-note/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
