@@ -35,7 +35,7 @@ _斜體字_
 ```
 [靜態網站製作教學](https://www.youtube.com/watch?v=bU0f1IvUcZA)<br>
 ![搞笑](http://friendoprod.blob.core.windows.net/missionpics/images/2293/member/ae5fdd9e-7eb7-48ca-8dc6-5e0317847988.jpg)<br>
-![NOTE](https://imgur.com/a/mGuWI)<br>
+![NOTE](https://imgur.com/TcoxFyG)<br>
 <del>我要得圖靈獎!!</del>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
