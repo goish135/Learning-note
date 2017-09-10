@@ -34,7 +34,7 @@ _斜體字_
 [Link](url) and ![Image](src)
 ```
 [靜態網站製作教學](https://www.youtube.com/watch?v=bU0f1IvUcZA)<br>
-![http://friendoprod.blob.core.windows.net/missionpics/images/2293/member/ae5fdd9e-7eb7-48ca-8dc6-5e0317847988.jpg]
+![搞笑](http://friendoprod.blob.core.windows.net/missionpics/images/2293/member/ae5fdd9e-7eb7-48ca-8dc6-5e0317847988.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
