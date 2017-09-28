@@ -7,12 +7,12 @@
 - **通訊軟體**:fb line skype slack(我採用的)<br>
 - **script** :coffeescript javascript ，可寫各種不同的功能(之後要好好學習的，目前是參考自網路現有資源)<br>
 ### IS "載東載西" TIME
-0. node.js and npm _先載完這個再用npm載hubot_ > [install node.js](https://docs.npmjs.com/getting-started/installing-node)
-1. hubot > [hubot document](https://hubot.github.com/docs/)
-2. slack 帳號 (比較沒那麼普及的通訊app) but 經google後發現他主要是為了團隊溝通 在國外很火紅 <br>
-2.1  _為了測試tatami是否正常運行_ > [slack相關](http://www.playpcesor.com/2015/06/slack.html)<br>
-3. slack app <br>
-3.1 build 一個出來<br>![tatami](https://i.imgur.com/L7tiQER.png)<br>
+1. node.js and npm _先載完這個再用npm載hubot_ > [install node.js](https://docs.npmjs.com/getting-started/installing-node)
+2. hubot > [hubot document](https://hubot.github.com/docs/)
+3. slack 帳號 (比較沒那麼普及的通訊app) but 經google後發現他主要是為了團隊溝通 在國外很火紅 <br>
+3.1  _為了測試tatami是否正常運行_ > [slack相關](http://www.playpcesor.com/2015/06/slack.html)<br>
+4. slack app <br>
+4.1 build 一個出來<br>![tatami](https://i.imgur.com/L7tiQER.png)<br>
 
 ### imp. > cmd (命令提示字元部分)
 - set HUBOT_SLACK_TOKEN= _api token_ 
