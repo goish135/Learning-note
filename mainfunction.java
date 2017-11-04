@@ -1,3 +1,4 @@
+// ref:https://github.com/Samjayyy/logicpuzzles/tree/master/nonogram
 public static void main(String[] args) throws Exception {
 		final InputReader in = new InputReader(System.in);
 		final OutputWriter out = new OutputWriter(System.out);
