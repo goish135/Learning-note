@@ -1,3 +1,4 @@
+//ref:https://github.com/Samjayyy/logicpuzzles/tree/master/nonogram
 static boolean dfs(int row){
 		if(row==R){
 			return true;
