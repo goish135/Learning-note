@@ -1,4 +1,18 @@
 //ref:https://github.com/Samjayyy/logicpuzzles/tree/master/nonogram
+/*
+3 3
+1
+1
+1
+1
+3
+1
+correct is: no answer,but
+rum result is:
+100
+010
+010
+*/
 static boolean dfs(int row){
 		if(row==R){
 			return true;
