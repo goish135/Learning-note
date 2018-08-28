@@ -1,0 +1,25 @@
+忘記local respository在哪兒，怎麼辦?
+
+Key : 建立新的分支
+
+1. 生成.git 文件夾 
+$  git init
+ 
+2.  
+$ git add .
+
+3. 下註解
+git commit -m "balabala"
+
+*4. 創建分支
+git branch 分支名(自己命名即可)
+
+5. 切換分支
+git checkout 分支名
+
+6. pass
+
+7. 將分支上傳
+git push origin 分支名
+
+
