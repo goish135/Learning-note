@@ -1,0 +1,2 @@
+git checkout <branch>
+git push origin teach #¤À¤ä¦W
