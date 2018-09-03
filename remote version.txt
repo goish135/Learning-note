@@ -1,0 +1,4 @@
+不知道繳去哪個respository?
+
+git remote -v
+
