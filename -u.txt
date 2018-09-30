@@ -1,0 +1,5 @@
+git push -u origin master
+
+why -u ?
+
+Because default parameters
